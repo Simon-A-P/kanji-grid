@@ -1,0 +1,13 @@
+{
+    "defaults": {
+        "groupby": 4,
+        "interval": 180,
+        "kanjionly": true,
+        "literal": true,
+        "pattern": "word",
+        "thin": 20,
+        "tooltips": true,
+        "unseen": true,
+        "wide": 20
+    }
+}
